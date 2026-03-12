@@ -22,3 +22,20 @@ Modo autônomo capaz de navegar pelo projeto e executar tarefas mais complexas.
 Modo focado no aprendizado, guiando o usuário com explicações e perguntas reflexivas.
 
 ## 📂 Estrutura
+prompts/ 
+prompt-ask.md 
+prompt-edit.md 
+prompt-plan.md 
+prompt-agent.md 
+prompt-study.md
+
+## 🚀 Tecnologias
+
+- Git
+- GitHub
+- Engenharia de Prompt
+- Inteligência Artificial
+
+## 🎯 Objetivo
+
+Demonstrar como diferentes prompts podem orientar o comportamento de um assistente de IA em diferentes contextos de desenvolvimento.
